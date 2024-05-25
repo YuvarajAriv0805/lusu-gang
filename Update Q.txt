@@ -4,6 +4,9 @@ Wipro Interview Questions: (16-12-2023)
 1. Self Intro about each person
 2. Roles & Responsibilitieshgghgk
 hffhh
+
+hghfhh
+
 3. Framework Explanation
 4. Where have you been implemented Encapsulation in your Automation Framework? 
 5. What are the design pattern have used in your Automation Framework? 
